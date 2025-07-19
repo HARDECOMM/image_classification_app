@@ -1,6 +1,6 @@
-[project]
-name = "project3"
-version = "0.1.0"
+[3mtt_project]
+name = "image_classification_ai"
+version = "1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
